@@ -64,7 +64,7 @@ function startGame()
     startTimer();
 
 
-    function fac() {
+    function ses() {
     displayIcon();
     }
 
